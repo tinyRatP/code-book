@@ -6,9 +6,9 @@
 Welcome to Tekzv's Code Book's documentation!
 =============================================
 
-Indices and tables
-==================
+.. toctree::
+   :caption: Table of Contents
+   :maxdepth: 3
+   :titlesonly:
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   micro-service/index.rst
